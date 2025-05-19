@@ -36,8 +36,8 @@ Meskipun saat ini saya membuat game di Skypillar Studio. Saya masih berkeinginan
 
 ### Published Game
 
-<!-- <img src="assets/images/1024x500.png" width="400" style="margin-left: 10px;" /> -->
-<table>
+<img src="assets/images/1024x500.png" width="400" style="margin-left: 10px;" />
+<!-- <table>
   <tr>
     <td style="border: none;" width="50%">
       <img src="assets/images/1024x500.png" width="100%" />
@@ -48,15 +48,4 @@ Meskipun saat ini saya membuat game di Skypillar Studio. Saya masih berkeinginan
       <p><strong>Item 2:</strong> Another description.</p>
     </td>
   </tr>
-</table>
-
-<div style="display: flex; gap: 5px;">
-  <div style="flex: 1;">
-    <img src="assets/images/1024x500.png" width="100%">
-    <p><strong>Item 1:</strong> Description goes here.</p>
-  </div>
-  <div style="flex: 1;">
-    <img src="assets/images/1024x500.png" width="100%">
-    <p><strong>Item 2:</strong> Another description.</p>
-  </div>
-</div>
+</table> -->
