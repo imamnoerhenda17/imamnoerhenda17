@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/><br/>
+<br/>
 
 Saya adalah seorang Game Developer di Skypillar Studio. Saya sangat menyukai pembuatan game dan mempelajari setiap teknologi baru yang mendukung proses development tersebut. Bagi saya, game adalah salah satu wadah untuk menyalurkan sebuah cerita yang ingin saya sampaikan kepada seluruh orang.
 
@@ -35,4 +35,28 @@ Meskipun saat ini saya membuat game di Skypillar Studio. Saya masih berkeinginan
 <br/>
 
 ### Published Game
-![](/assets/images/1024x500.png)
+
+<!-- <img src="assets/images/1024x500.png" width="400" style="margin-left: 10px;" /> -->
+<table>
+  <tr>
+    <td style="border: none;" width="50%">
+      <img src="assets/images/1024x500.png" width="100%" />
+      <p><strong>Item 1:</strong> Description goes here.</p>
+    </td>
+    <td style="border: none;" width="50%">
+      <img src="assets/images/1024x500.png" width="100%" />
+      <p><strong>Item 2:</strong> Another description.</p>
+    </td>
+  </tr>
+</table>
+
+<!-- <div style="display: flex; gap: 5px;">
+  <div style="flex: 1;">
+    <img src="assets/images/1024x500.png" width="100%">
+    <p><strong>Item 1:</strong> Description goes here.</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="assets/images/1024x500.png" width="100%">
+    <p><strong>Item 2:</strong> Another description.</p>
+  </div>
+</div> -->
