@@ -50,7 +50,7 @@ Meskipun saat ini saya membuat game di Skypillar Studio. Saya masih berkeinginan
   </tr>
 </table>
 
-<!-- <div style="display: flex; gap: 5px;">
+<div style="display: flex; gap: 5px;">
   <div style="flex: 1;">
     <img src="assets/images/1024x500.png" width="100%">
     <p><strong>Item 1:</strong> Description goes here.</p>
@@ -59,4 +59,4 @@ Meskipun saat ini saya membuat game di Skypillar Studio. Saya masih berkeinginan
     <img src="assets/images/1024x500.png" width="100%">
     <p><strong>Item 2:</strong> Another description.</p>
   </div>
-</div> -->
+</div>
