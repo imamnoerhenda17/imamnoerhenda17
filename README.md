@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/imamnoerhenda/"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" href="https://discordapp.com/users/364780505922535434"/> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" href="https://steamcommunity.com/id/emvira/"/> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" href="https://play.google.com/store/apps/dev?id=7010916716113210735">
 
-<br/>
-
 ### Glad to see you here!
 I'm passionate about crafting games and exploring new technologies that push the boundaries of game development. For me, games are more than just entertainment—they're powerful medium to tell stories and share meaningfull experiences with people around the world.
 
