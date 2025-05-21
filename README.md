@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/imamnoerhenda/"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" href="https://discordapp.com/users/364780505922535434"/> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" href="https://steamcommunity.com/id/emvira/"/> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" href="https://play.google.com/store/apps/dev?id=7010916716113210735">
+<a href="https://www.linkedin.com/in/imamnoerhenda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://discordapp.com/users/364780505922535434"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> <a href="https://steamcommunity.com/id/emvira/"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /> </a> <a href="https://play.google.com/store/apps/dev?id=7010916716113210735"> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /> </a>
 
 ### Glad to see you here!
 I'm passionate about crafting games and exploring new technologies that push the boundaries of game development. For me, games are more than just entertainment—they're powerful medium to tell stories and share meaningfull experiences with people around the world.
@@ -42,7 +42,9 @@ Currently, I'm building games at Skypillar Studio, but I'm always open to exciti
 </p>
 
 ### Treeky: Dine & Serve
-<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" href="https://play.google.com/store/apps/details?id=com.SkypillarStudio.Match3">
+<a href="https://play.google.com/store/apps/details?id=com.SkypillarStudio.Match3">
+  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" >
+</a>
 
 A game about little fox that have a dream to rebuild his restaurant and bringing joy to every customer who walks through the door.
 
@@ -61,7 +63,9 @@ My contribution for this games are :
 </p>
 
 ### Dadoo - Board, Card and Chaos
-<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" href="https://play.google.com/store/search?q=Dadoo&c=apps">
+<a href="https://play.google.com/store/search?q=Dadoo&c=apps">
+  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" >
+</a>
 
 Dadoo is an online multiplayer party board game with superpowers and lots of mischief!
 
@@ -80,7 +84,9 @@ My contribution for this game are :
 </p>
 
 ### Autonomous Driving Car
-<img src="https://img.shields.io/badge/Google%20Slides-FBBC04?style=for-the-badge&logo=google-slides&logoColor=black" href="https://drive.google.com/drive/folders/15fhU-OfCqOZmwVUikJ93hO5gOJQd1O7J">
+<a href="https://drive.google.com/drive/folders/15fhU-OfCqOZmwVUikJ93hO5gOJQd1O7J">
+  <img src="https://img.shields.io/badge/Google%20Slides-FBBC04?style=for-the-badge&logo=google-slides&logoColor=black" >
+</a>
 
 It is an experiment about a Car that try to learn to find its way out using Machine Learning technique which is Reinforment Learning
 
