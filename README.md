@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/imamnoerhenda/">
+<a href="https://www.linkedin.com/in/imamnoerhenda/" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
 </a>
-<a href="https://discordapp.com/users/364780505922535434">
+<a href="https://discordapp.com/users/364780505922535434" rel="nofollow">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" > 
 </a>
-<a href="https://steamcommunity.com/id/emvira/">
+<a href="https://steamcommunity.com/id/emvira/" rel="nofollow">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </a>
-<a href="https://play.google.com/store/apps/dev?id=7010916716113210735">
+<a href="https://play.google.com/store/apps/dev?id=7010916716113210735" rel="nofollow">
   <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" >
 </a>
 
