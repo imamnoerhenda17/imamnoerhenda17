@@ -15,18 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/imamnoerhenda/"/>
-
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" href="https://discordapp.com/users/364780505922535434"/>
-
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" href="https://steamcommunity.com/id/emvira/"/>
-
-<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" href="https://play.google.com/store/apps/dev?id=7010916716113210735">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/imamnoerhenda/"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" href="https://discordapp.com/users/364780505922535434"/> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" href="https://steamcommunity.com/id/emvira/"/> <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" href="https://play.google.com/store/apps/dev?id=7010916716113210735">
 
 <br/>
-<br/>
 
-#### Glad to see you here!
+### Glad to see you here!
 I'm passionate about crafting games and exploring new technologies that push the boundaries of game development. For me, games are more than just entertainment—they're powerful medium to tell stories and share meaningfull experiences with people around the world.
 
 I began my journey in game development back in 2020, starting with a replica of an
@@ -61,6 +54,9 @@ My contribution for this games are :
 - Almost 90% of the Programming & Publishing Task
 
 <br/>
+
+##
+
 <br/>
 <p align="center">
   <img src="assets/images/DadooPromotionalArt.jpg" width="400" height="200" style="margin-left: 10px;" />
@@ -77,6 +73,9 @@ My contribution for this game are :
 - Creating a camera tracking function
 
 <br/>
+
+##
+
 <br/>
 <p align="center">
   <img src="assets/images/Autonomous Driving Car.png" width="400" height="200" style="margin-left: 10px;" />
