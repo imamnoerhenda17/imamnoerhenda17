@@ -15,18 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div style="display: flex; gap:3px;">
 <a href="https://www.linkedin.com/in/imamnoerhenda/" rel="nofollow">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="display: block;"> 
 </a>
 <a href="https://discordapp.com/users/364780505922535434" rel="nofollow">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" > 
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="display: block;"> 
 </a>
 <a href="https://steamcommunity.com/id/emvira/" rel="nofollow">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="display: block;">
 </a>
 <a href="https://play.google.com/store/apps/dev?id=7010916716113210735" rel="nofollow">
-  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" >
+  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" style="display: block;">
 </a>
+</div>
 
 ### Glad to see you here!
 I'm passionate about crafting games and exploring new technologies that push the boundaries of game development. For me, games are more than just entertainment—they're powerful medium to tell stories and share meaningfull experiences with people around the world.
