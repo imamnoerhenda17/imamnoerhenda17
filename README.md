@@ -14,29 +14,86 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>
 
-Saya adalah seorang Game Developer di Skypillar Studio. Saya sangat menyukai pembuatan game dan mempelajari setiap teknologi baru yang mendukung proses development tersebut. Bagi saya, game adalah salah satu wadah untuk menyalurkan sebuah cerita yang ingin saya sampaikan kepada seluruh orang.
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/imamnoerhenda/"/>
 
-Saya masuk ke dalam dunia Game Development sejak 2020. Dimulai dari pembuatan replika Autonomous Car sampai pembuatan game dengan skala kecil. UnityEngine adalah game engine yang saya pakai untuk hal tersebut dan masih saya gunakan hingga saat ini.
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" href="https://discordapp.com/users/364780505922535434"/>
 
-Saya pernah singgah dibeberap Studio Game untuk bekerja sama dalam proses pembuatan Game dan mempelajari bagaimana proses detail dalam pembuatan Game.
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" href="https://steamcommunity.com/id/emvira/"/>
 
-Hingga saat ini, cukup banyak tools game development yang saya pelajari dan coba gunakan seperti
-- Spine untuk pembuatan Animasi 2D
-- Blender untuk pembuatan model 3D
-- VsCode untuk pemrogramman
-- Google Play Console untuk publishing mobile games
-- ClickUp untuk Task Management
-- UnityEngine untuk proses pembuatan game
-
-Meskipun saat ini saya membuat game di Skypillar Studio. Saya masih berkeinginan untuk bergabung dan membuat karya bersama dengan studio lain. Feel free to contact me!!
+<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" href="https://play.google.com/store/apps/dev?id=7010916716113210735">
 
 <br/>
+<br/>
 
-### Published Game
+#### Glad to see you here!
+I'm passionate about crafting games and exploring new technologies that push the boundaries of game development. For me, games are more than just entertainment—they're powerful medium to tell stories and share meaningfull experiences with people around the world.
 
-<img src="assets/images/1024x500.png" width="400" style="margin-left: 10px;" />
+I began my journey in game development back in 2020, starting with a replica of an
+[Autonomous Driving Car](#autonomous-driving-car), and later diving into small-scale game projects. I primarily use Unity as my game engine, and it's been my go-to tool ever since.
+
+Over the years, I've had the opportunity to collaborate with several game studios, learning the ins and outs of professional game production. These experiences have shaped how I approach development today.
+
+Currently, I'm building games at Skypillar Studio, but I'm always open to exciting new collaborations. If you're interested in working together or just want to connect—feel free to reach out!
+
+<h2 align="center">Skill Mastery</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,git,github,vscode,notion,mysql,firebase" />
+  </a>
+</p>
+
+<br/>
+
+<h2 align="center">Archived Quests</h2>
+<p align="center">
+  <img src="assets/images/TreekyBanner.png" width="400" height="200" style="margin-left: 10px;" />
+</p>
+
+### Treeky: Dine & Serve
+<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" href="https://play.google.com/store/apps/details?id=com.SkypillarStudio.Match3">
+
+A game about little fox that have a dream to rebuild his restaurant and bringing joy to every customer who walks through the door.
+
+My contribution for this games are :
+- Designing the Game
+- Manage the Production Process
+- Almost 90% of the Programming & Publishing Task
+
+<br/>
+<br/>
+<p align="center">
+  <img src="assets/images/DadooPromotionalArt.jpg" width="400" height="200" style="margin-left: 10px;" />
+</p>
+
+### Dadoo - Board, Card and Chaos
+<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" href="https://play.google.com/store/search?q=Dadoo&c=apps">
+
+Dadoo is an online multiplayer party board game with superpowers and lots of mischief!
+
+My contribution for this game are :
+- Code for cards ability
+- Implementation some character skin
+- Creating a camera tracking function
+
+<br/>
+<br/>
+<p align="center">
+  <img src="assets/images/Autonomous Driving Car.png" width="400" height="200" style="margin-left: 10px;" />
+</p>
+
+### Autonomous Driving Car
+<img src="https://img.shields.io/badge/Google%20Slides-FBBC04?style=for-the-badge&logo=google-slides&logoColor=black" href="https://drive.google.com/drive/folders/15fhU-OfCqOZmwVUikJ93hO5gOJQd1O7J">
+
+It is an experiment about a Car that try to learn to find its way out using Machine Learning technique which is Reinforment Learning
+
+My contribution for this experiment are :
+- Train the Car using Machine Learning
+- Design the track for the car
+- Analyze the result of training
+
+
+
 <!-- <table>
   <tr>
     <td style="border: none;" width="50%">
